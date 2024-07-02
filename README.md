@@ -1,0 +1,1 @@
+### Minimal example of how to implement the hexagonal architecture. Achieve decoupling and isolation and simple unit testing for a microservice approach. Maintain technology-independent business logic
